@@ -1,4 +1,4 @@
- R-etroSnap Photo Booth,
+ RetroSnap Photo Booth,
 
 A modern photo booth web application built with React + Vite, featuring live webcam capture, vintage-inspired filters, animated countdowns, and downloadable photo strips.
 
