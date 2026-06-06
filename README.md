@@ -1,12 +1,35 @@
-# React + Vite
+ R-etroSnap Photo Booth,
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern photo booth web application built with React + Vite, featuring live webcam capture, vintage-inspired filters, animated countdowns, and downloadable photo strips.
 
-Currently, two official plugins are available:
+- Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+.  Live webcam integration
+.  Multiple aesthetic filters
+.  Animated countdown capture
+.  Automatic photo strip generation
+.  One-click download
+.  Smooth animations with Framer Motion
 
-## Expanding the ESLint configuration
+- Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React • Vite • CSS3 • React Webcam • HTML2Canvas • Framer Motion
+
+- Getting Started
+
+git clone https://github.com/Rishithabburi/retrosnap-photo-booth.git
+cd retrosnap-photo-booth
+npm install
+npm run dev
+
+- Project Highlights
+
+. Component-based architecture
+. Client-side image generation
+. Responsive and interactive UI
+
+ Author
+
+Sai Rishith Abburi
+
+If you found this project useful, consider giving it a ⭐.
