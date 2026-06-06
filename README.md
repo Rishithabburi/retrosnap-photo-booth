@@ -11,16 +11,26 @@ A modern photo booth web application built with React + Vite, featuring live web
 .  One-click download
 .  Smooth animations with Framer Motion
 
+
+
 - Tech Stack
 
 React • Vite • CSS3 • React Webcam • HTML2Canvas • Framer Motion
 
+
+
+
+
 - Getting Started
 
-.git clone https://github.com/Rishithabburi/retrosnap-photo-booth.git
-.cd retrosnap-photo-booth
-.npm install
-.npm run dev
+-git clone https://github.com/Rishithabburi/retrosnap-photo-booth.git
+-cd retrosnap-photo-booth
+-npm install
+-npm run dev
+
+
+
+
 
 - Project Highlights
 
